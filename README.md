@@ -1,16 +1,60 @@
 ## Hi there 👋
 
-<!--
-**grd888/grd888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Table of Contents
 
-Here are some ideas to get you started:
+- [Swift/iOS](#swift-ios)
+- [NodeJS](#nodejs)
+- [React](#react)
+- [React Native](#react-native)
+- [Web](#web)
+- [Rust](#rust)
+- [Go](#go)
+- [Flutter](#flutter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Swift/iOS
+A collection of projects showcasing my expertise in iOS development using Swift.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
+
+## NodeJS
+Projects built using Node.js for backend development.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
+
+## React
+My work with React for building dynamic and interactive user interfaces.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
+
+## React Native
+Cross-platform mobile applications developed with React Native.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
+
+## Web
+Web development projects, including frontend and full-stack implementations.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
+
+## Rust
+Rust-based projects highlighting systems programming expertise.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
+
+## Go
+Projects demonstrating my work with Go for building scalable and efficient software.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
+
+## Flutter
+Mobile applications built with Flutter for beautiful, natively compiled experiences.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
