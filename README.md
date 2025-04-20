@@ -3,6 +3,7 @@
 # Table of Contents
 
 - [Swift/iOS](#swift-ios)
+- [Python](#python)
 - [NodeJS](#nodejs)
 - [React](#react)
 - [React Native](#react-native)
@@ -13,6 +14,12 @@
 
 ## Swift/iOS
 A collection of projects showcasing my expertise in iOS development using Swift.
+
+- [Project 1](<repo-link>) - Description of the project.
+- [Project 2](<repo-link>) - Description of the project.
+
+## Python
+A collection of projects showcasing my expertise in Python.
 
 - [Project 1](<repo-link>) - Description of the project.
 - [Project 2](<repo-link>) - Description of the project.
