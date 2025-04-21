@@ -22,7 +22,7 @@ A collection of projects showcasing my expertise in iOS development using Swift.
 A collection of projects showcasing my expertise in Python.
 
 - [Maze Solver](https://github.com/grd888/maze-solver) - Generates random mazes and solves it.
-- [Project 2](<repo-link>) - Description of the project.
+- [Static Site Generator][(<repo-link>)](https://github.com/grd888/static-site-generator) - Generate a static web site from markdown.
 
 ## NodeJS
 Projects built using Node.js for backend development.
