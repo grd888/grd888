@@ -39,7 +39,7 @@ My work with React for building dynamic and interactive user interfaces.
 ## React Native
 Cross-platform mobile applications developed with React Native.
 
-- [Project 1](<repo-link>) - Description of the project.
+- [Shelfie](https://github.com/grd888/shelfie_app) - Demo Project.
 - [Project 2](<repo-link>) - Description of the project.
 
 ## Web
