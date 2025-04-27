@@ -57,7 +57,7 @@ Rust-based projects highlighting systems programming expertise.
 ## Go
 Projects demonstrating my work with Go for building scalable and efficient software.
 
-- [Project 1](<repo-link>) - Description of the project.
+- [Go HTTP](https://github.com/grd888/httpgo) - HTTP in Go.
 - [Project 2](<repo-link>) - Description of the project.
 
 ## Flutter
