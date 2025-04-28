@@ -57,8 +57,8 @@ Rust-based projects highlighting systems programming expertise.
 ## Go
 Projects demonstrating my work with Go for building scalable and efficient software.
 
-- [Go HTTP](https://github.com/grd888/httpgo) - HTTP in Go.
-- [Project 2](<repo-link>) - Description of the project.
+- [Go HTTP](https://github.com/grd888/httpgo) - HTTP in Go
+- [Pokedex CLI](https://github.com/grd888/pokedexcli) - Pokedex CLI
 
 ## Flutter
 Mobile applications built with Flutter for beautiful, natively compiled experiences.
