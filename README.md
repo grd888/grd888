@@ -3,14 +3,11 @@
 # Table of Contents
 
 - [Swift/iOS](#swift-ios)
-- [Python](#python)
-- [NodeJS](#nodejs)
-- [React](#react)
 - [React Native](#react-native)
-- [Web](#web)
+- [Python](#python)
 - [Rust](#rust)
 - [Go](#go)
-- [Flutter](#flutter)
+
 
 ## Swift/iOS
 A collection of projects showcasing my expertise in iOS development using Swift.
