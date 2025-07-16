@@ -17,34 +17,16 @@ A collection of projects showcasing my expertise in iOS development using Swift.
 
 - [ASNetworking](https://github.com/grd888/ASNetworking) - A modern Swift networking library built with async/await concurrency patterns, featuring comprehensive error handling, automatic token management, and built-in testing support for iOS and macOS applications.
 
+## React Native
+Cross-platform mobile applications developed with React Native.
+
 ## Python
 A collection of projects showcasing my expertise in Python.
 
 - [Maze Solver](https://github.com/grd888/maze-solver) - Generates random mazes and solves it.
 - [Static Site Generator](https://github.com/grd888/static-site-generator) - Generate a static web site from markdown.
 
-## NodeJS
-Projects built using Node.js for backend development.
-
-- [Project 1](<repo-link>) - Description of the project.
-- [Project 2](<repo-link>) - Description of the project.
-
-## React
-My work with React for building dynamic and interactive user interfaces.
-
-- [Project 1](<repo-link>) - Description of the project.
-- [Project 2](<repo-link>) - Description of the project.
-
-## React Native
-Cross-platform mobile applications developed with React Native.
-
 - [Shelfie](https://github.com/grd888/shelfie_app) - Demo Project.
-- [Project 2](<repo-link>) - Description of the project.
-
-## Web
-Web development projects, including frontend and full-stack implementations.
-
-- [Project 1](<repo-link>) - Description of the project.
 - [Project 2](<repo-link>) - Description of the project.
 
 ## Rust
@@ -59,8 +41,3 @@ Projects demonstrating my work with Go for building scalable and efficient softw
 - [Go HTTP](https://github.com/grd888/httpgo) - HTTP in Go
 - [Pokedex CLI](https://github.com/grd888/pokedexcli) - Pokedex CLI
 
-## Flutter
-Mobile applications built with Flutter for beautiful, natively compiled experiences.
-
-- [Project 1](<repo-link>) - Description of the project.
-- [Project 2](<repo-link>) - Description of the project.
