@@ -5,7 +5,6 @@
 - [Swift/iOS](#swift-ios)
 - [React Native](#react-native)
 - [Python](#python)
-- [Rust](#rust)
 - [Go](#go)
 
 
@@ -24,12 +23,6 @@ A collection of projects showcasing my expertise in Python.
 - [Static Site Generator](https://github.com/grd888/static-site-generator) - Generate a static web site from markdown.
 
 - [Shelfie](https://github.com/grd888/shelfie_app) - Demo Project.
-- [Project 2](<repo-link>) - Description of the project.
-
-## Rust
-Rust-based projects highlighting systems programming expertise.
-
-- [Project 1](<repo-link>) - Description of the project.
 - [Project 2](<repo-link>) - Description of the project.
 
 ## Go
