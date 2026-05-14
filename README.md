@@ -1,5 +1,3 @@
-## Hi there 👋 This page is Work In Progress, Check back from time to time to see its progress
-
 # Table of Contents
 
 - [Swift/iOS](#swift-ios)
