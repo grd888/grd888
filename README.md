@@ -12,6 +12,7 @@ A collection of projects showcasing my expertise in iOS development using Swift.
 - [ASNetworking](https://github.com/grd888/ASNetworking) - A modern Swift networking library built with async/await concurrency patterns, featuring comprehensive error handling, automatic token management, and built-in testing support for iOS and macOS applications.
 - [Cosmic Drift](https://github.com/grd888/CosmicDrift) - A fast-paced iOS space survival game built with SwiftUI and SpriteKit. Pilot your ship through an endless cosmic gauntlet of meteors, satellites, and homing enemies — collect power-ups, survive as long as you can, and chase a high score.
 - [Marbles](https://github.com/grd888/Marbles) - A tilt-controlled iOS marble matching game built with SpriteKit.
+- [Gloop Drop](https://github.com/grd888/gloopdrop) - A 2D arcade-style iOS game built with SpriteKit, in which a hungry little blob catches falling gloop drops before they hit the ground.
   
 ## React Native
 Cross-platform mobile applications developed with React Native.
